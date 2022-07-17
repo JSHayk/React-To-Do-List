@@ -1,0 +1,37 @@
+.sidebar-item {
+    padding: 24px;
+}
+
+.sidebar-title {
+    color: #26695c;
+    font-weight: 700;
+    letter-spacing: .8px;
+    font-size: 22px;
+    border-bottom: solid .4px #ccc;
+    padding-bottom: 8px;
+    text-align: left;
+}
+
+.sidebar-subitems {
+    padding-top: 10px
+}
+
+.sidebar-subitem {
+    width: 220px;
+    height: 36px;
+    border: none;
+    border-radius: 8.24px;
+    background-color: none;
+    color: #717171;
+    text-align: center;
+    letter-spacing: .8px;
+    font-weight: 500;
+    padding-top: 8px;
+    cursor: pointer;
+    margin-top: 3px;
+}
+
+.sidebar-subitem:hover {
+    background-color: #26695c;
+    color: #FFF;
+}

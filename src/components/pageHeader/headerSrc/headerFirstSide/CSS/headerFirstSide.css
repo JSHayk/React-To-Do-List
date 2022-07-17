@@ -1,0 +1,15 @@
+#header-first-side {
+    width: 359px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-right: solid .5px #e5e5e5;
+    border-bottom: solid .5px #ccc;   
+}
+
+.header-sidebar-hide {
+    font-size: 17px;
+    cursor: pointer;
+    color: rgb(38, 105, 92);
+}

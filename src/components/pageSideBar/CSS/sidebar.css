@@ -1,0 +1,22 @@
+.side-bar-cont::-webkit-scrollbar {
+    background-color: #e5e5e5;
+    width: 9px;
+}
+.side-bar::-webkit-scrollbar {
+    height: 30px !important;
+} 
+
+.side-bar-cont {
+    width: 288px;
+    height: 100vh;
+    background-color: #fff;
+    border-right: solid .5px #ccc;
+    position: fixed;
+    overflow-y: auto;
+}
+
+.side-bar {
+    width: 360px;
+    height: 100vh;
+    border-top: solid 3px #e5e5e5;
+}

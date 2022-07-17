@@ -1,0 +1,43 @@
+#to-do-list-first-side {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.to-do-list-subtitle {
+    color: #000;
+    font-weight: 600;
+    font-size: 22px;
+    margin: 8px;
+}
+
+/* Finished Mark Design */
+
+.to-do-list-finished-mark {
+    width: 300px;
+    align-items: center;
+    justify-content: end;
+    display: flex;
+}
+
+.to-do-list-finished-mark > div {
+    margin: 4px;
+}
+
+.to-do-list-finished-mark-text {
+    text-align: center;
+    color: darkred;
+    font-weight: 600;
+}
+
+.to-do-list-finished-mark-icon {
+    font-size: 29px;
+    cursor: pointer;
+    color: darkred;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.to-do-list-finished-mark-icon > svg {
+    border-radius: 6px;
+}

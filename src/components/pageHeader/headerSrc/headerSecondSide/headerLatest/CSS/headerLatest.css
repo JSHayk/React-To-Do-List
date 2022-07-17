@@ -1,0 +1,7 @@
+#header-second-latest {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 8px;
+    width: 480px;
+}

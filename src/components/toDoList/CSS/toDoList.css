@@ -1,0 +1,21 @@
+#to-do-list {
+    padding: 1rem;
+}
+
+.to-do-list-title {
+    font-size: 26px;
+    color: #000;
+    font-weight: 600;
+    letter-spacing: .7px;
+}
+
+.to-do-list-cont {
+    padding-top: 40px;
+    padding: 24px;
+    margin-top: 3%;
+    background-color: #FFF;
+    width: 100%;
+    box-shadow: 0 0 20px rgb(25 124 207 / 8%);
+    border-radius: 5px;
+    border: solid #e5e5e5 .5px;
+}

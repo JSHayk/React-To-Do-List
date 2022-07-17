@@ -1,0 +1,23 @@
+.header-latest-icons {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    padding: 14px;
+}
+
+.header-latest-icon {
+    margin: 4px;
+    padding: 2px;
+    padding-top: 6px;
+    font-size: 20px;
+    width: 44px;
+    cursor: pointer;    
+    text-align: center;
+    height: auto;
+    border-radius: 5px;
+}
+
+.header-latest-icon:hover {
+    background-color: #ebebeb;
+    box-shadow: 0 0 20px rgb(25 124 207 / 8%);
+}

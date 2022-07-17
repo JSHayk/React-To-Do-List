@@ -1,0 +1,16 @@
+.list-add-default {
+    background-color: #24695c;
+    color: #FFf;
+    font-size: 15   px;
+    letter-spacing: .4px;
+    cursor: pointer;
+    text-align: center;
+    font-weight: 600;
+    padding: 6px 8px;
+    width: 156px;
+    height: 34px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    box-shadow: 0 0 20px rgb(25 124 207 / 8%);
+}

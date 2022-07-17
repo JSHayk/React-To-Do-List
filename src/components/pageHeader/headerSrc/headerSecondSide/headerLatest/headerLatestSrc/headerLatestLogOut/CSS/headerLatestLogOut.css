@@ -1,0 +1,25 @@
+.header-logout {
+    background-color: #e6edf2;
+    border-color: #ebedef;
+    color: #000;
+    font-weight: 600;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: .8px;
+    text-align: center;
+    width: 123px;
+    height: 33px;
+    border-radius: 5px;
+    padding-top: 4px;
+    color: #26695c;
+    padding-top: 7px;
+    cursor: pointer;
+}
+
+.header-logout:hover {
+    background-color: #26695c;
+    color: #FFF;
+    /* transition-delay: 400ms; */
+    transition-duration: 400ms;
+    transition-timing-function: cubic-bezier(.02,.88,.31,.78);
+}
